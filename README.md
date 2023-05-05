@@ -17,7 +17,7 @@
 
 * Entre na pasta do repositório que você acabou de clonar:
 
-	*  `cd vitorluigif-zoo-functions`
+	*  `cd zoo-functions`
 
 2. Instale as dependências
 
