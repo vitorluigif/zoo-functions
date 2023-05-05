@@ -1,3 +1,4 @@
+# Boas-vindas ao repositório do projeto Zoo Functions!
 # Sobre
 <summary><strong>🧑‍💻 O que foi desenvolvido</strong></summary><br />
 
