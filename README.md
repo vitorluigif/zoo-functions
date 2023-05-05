@@ -17,4 +17,5 @@
 Na pasta raiz do projeto, temos as pastas `src`, `test`, `evaluator` e `data`.
 
 # Arquivos
-A pasta `src` é composta por arquivos referentes a cada uma das funções que você irá implementar, a pasta `data` contém o arquivo `zoo_data.js`, que armazena os dados que você vai utilizar para retornar as informações sobre o zoológico.
+
+A pasta `src` é composta por arquivos referentes a cada uma das funções , a pasta `data` contém o arquivo `zoo_data.js`, que armazena os dados que utilizei para fazer as funções.
